@@ -30,6 +30,8 @@ Confira meus projetos aqui:
 
 ➡️ **[Social Blade: Relatório de Insights](https://github.com/KaaioH013/relatorio_social_blade.git)**
 
+➡️ **[Dashboard Analítico](https://github.com/KaaioH013/projeto_bi.git)**
+
 ---
 
 #### 📫 Como me encontrar:
