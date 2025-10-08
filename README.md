@@ -34,5 +34,5 @@ Confira meus projetos aqui:
 
 #### 📫 Como me encontrar:
 
-- **LinkedIn:** [Caio H R Santana]https://www.linkedin.com/in/caio-henrique-r-santana-3443a3189/
+- **LinkedIn:** **[Caio H R Santana]https://www.linkedin.com/in/caio-henrique-r-santana-3443a3189/**
 - **Email:** hrs.caio@hotmail.com
