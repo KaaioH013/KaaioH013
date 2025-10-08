@@ -22,8 +22,12 @@ Atualmente, estou focado em aprimorar minhas habilidades e construir um portfól
 
 Todos os meus projetos de estudo estão consolidados no repositório abaixo. Lá você encontrará análises, scripts de automação e dashboards interativos.
 
-➡️ **Confira meus projetos aqui: [Portfólio de Projetos de Dados](https://github.com/KaaioH013/portfolio)**
+➡️ **Confira meus projetos aqui: 
+
+➡️ **[Portfólio de Projetos de Dados](https://github.com/KaaioH013/portfolio)**
+
 ➡️ **[Gestão de Devoluções](https://github.com/KaaioH013/gestao-devolucoes.git)**
+
 ➡️ **[Social Blade: Relatório de Insights](https://github.com/KaaioH013/relatorio_social_blade.git)**
 
 ---
