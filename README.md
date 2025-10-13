@@ -32,6 +32,8 @@ Confira meus projetos aqui:
 
 ➡️ **[Dashboard Analítico](https://github.com/KaaioH013/projeto_bi.git)**
 
+➡️ **[Previsão de Preços de Aluguel no Brasil](https://github.com/KaaioH013/Previs-o-de-Aluguel-no-Brasil.git)**
+
 ---
 
 #### 📫 Como me encontrar:
