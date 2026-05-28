@@ -21,7 +21,7 @@ Python · SQL Server · pandas · React · FastAPI · automação comercial
 
 ## Contato
 
-[LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/caio-santana-3443a3189/])) · hrs.caio@hotmail.com
+[LinkedIn](https://www.linkedin.com/](https://www.linkedin.com/in/caio-santana-3443a3189/)) · hrs.caio@hotmail.com
 
 ---
 
