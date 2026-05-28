@@ -37,7 +37,7 @@ Busco posição remota em **Sales Ops / RevOps / Analista Comercial com dados**,
 ## Contato
 
 📧 [hrs.caio@hotmail.com](mailto:hrs.caio@hotmail.com)  
-💼 [LinkedIn](https://www.linkedin.com/) *(atualize com seu perfil)*  
+💼 [LinkedIn](https://www.linkedin.com/in/caio-santana-3443a3189/)  
 🐙 [github.com/KaaioH013](https://github.com/KaaioH013)
 
 ---
