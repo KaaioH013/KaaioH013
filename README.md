@@ -1,43 +1,28 @@
-### Olá, eu sou o Caio! 👋
+# Caio Santana
 
-Sou um profissional iniciando minha jornada no universo da Análise e Ciência de Dados, com o objetivo de transformar dados brutos em insights e soluções de negócio.
+**Coordenação Comercial · Sales Ops · Dados** — Araraquara, SP · remoto
 
-Atualmente, estou focado em aprimorar minhas habilidades e construir um portfólio de projetos práticos que demonstrem minhas competências.
+Construo ferramentas que o time comercial usa no dia a dia: relatórios, cotações, precificação e consultas — com Python, SQL e interfaces simples.
 
----
+## Projetos em destaque
 
-#### 🔧 Tecnologias e Ferramentas
+| Projeto | O que resolve |
+|---------|----------------|
+| [sales-report-generator](https://github.com/KaaioH013/sales-report-generator) | PDF/HTML de vendas a partir do Excel |
+| [quote-analyzer](https://github.com/KaaioH013/quote-analyzer) | Análise de markup por orçamento (SQL Server) |
+| [daily-commercial-report](https://github.com/KaaioH013/daily-commercial-report) | KPIs diários por e-mail |
+| [precificador](https://github.com/KaaioH013/precificador) | API de precificação com cache local |
+| [consulta-cnpj](https://github.com/KaaioH013/consulta-cnpj) | Consulta cadastral CNPJ (React) |
+| [vistoriacrm](https://github.com/KaaioH013/vistoriacrm) | Mini-CRM para vistorias (React) |
 
-<div>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-</div>
+## Stack
 
----
+Python · SQL Server · pandas · React · FastAPI · automação comercial
 
-#### 🚀 Meu Portfólio Principal
+## Contato
 
-Todos os meus projetos de estudo estão consolidados no repositório abaixo. Lá você encontrará análises, scripts de automação e dashboards interativos.
-
-Confira meus projetos aqui: 
-
-➡️ **[Portfólio de Projetos de Dados](https://github.com/KaaioH013/portfolio)**
-
-➡️ **[Gestão de Devoluções](https://github.com/KaaioH013/gestao-devolucoes.git)**
-
-➡️ **[Social Blade: Relatório de Insights](https://github.com/KaaioH013/relatorio_social_blade.git)**
-
-➡️ **[Dashboard Analítico](https://github.com/KaaioH013/projeto_bi.git)**
-
-➡️ **[Previsão de Preços de Aluguel no Brasil](https://github.com/KaaioH013/Previs-o-de-Aluguel-no-Brasil.git)**
+[LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/caio-santana-3443a3189/)) · hrs.caio@hotmail.com
 
 ---
 
-#### 📫 Como me encontrar:
-
-- **LinkedIn:** **[Caio H R Santana](https://www.linkedin.com/in/caio-henrique-r-santana-3443a3189/)**
-- **Email:** hrs.caio@hotmail.com
-- **WhatsApp:** 16997313776
+*Repositórios com dados fictícios. Projetos corporativos não expõem clientes, preços reais nem credenciais.*
