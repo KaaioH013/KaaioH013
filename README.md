@@ -15,8 +15,6 @@ Araraquara, SP · Remoto · B2B industrial
 
 Coordenador comercial que **constrói a própria stack de dados**: relatórios, cotações, precificação e cadastro — ferramentas que o time usa no dia a dia, sem depender só de planilha manual ou BI genérico.
 
-Busco posição **remota** em Sales Ops, RevOps ou Analista Comercial com dados (faixa **R$ 12k+**), unindo visão de negócio B2B e execução técnica.
-
 ## O que eu entrego
 
 | Área | Entrega |
