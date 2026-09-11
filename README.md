@@ -80,7 +80,7 @@ Aplicação desktop para transformar áudios em texto que pode ser revisado e ut
 
 | Projeto | Aplicação | Tecnologias |
 | --- | --- | --- |
-| [Analisador de cotações](https://github.com/KaaioH013/quote-analyzer) | Consulta de orçamentos, análise de markup e exportação para Excel | Python · PySide6 · SQL Server |
+| [Analisador de cotações](./portfolio/quote-analyzer/README.md) | Consulta de orçamentos, análise de markup e exportação para Excel | Python · PySide6 · SQL Server |
 | [API de precificação](https://github.com/KaaioH013/precificador) | Consulta de preços a partir de um cache alimentado por ETL | FastAPI · SQLite · SQL Server |
 | [Relatório comercial diário](https://github.com/KaaioH013/daily-commercial-report) | Indicadores em HTML e envio por e-mail | Python · Outlook/SMTP |
 | [Consulta de CNPJ](https://github.com/KaaioH013/consulta-cnpj) | Interface para consulta de informações cadastrais | React · TypeScript · Vite |
