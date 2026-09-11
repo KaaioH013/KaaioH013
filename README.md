@@ -84,6 +84,7 @@ Aplicação desktop para transformar áudios em texto que pode ser revisado e ut
 | [API de precificação](https://github.com/KaaioH013/precificador) | Consulta de preços a partir de um cache alimentado por ETL | FastAPI · SQLite · SQL Server |
 | [Relatório comercial diário](https://github.com/KaaioH013/daily-commercial-report) | Indicadores em HTML e envio por e-mail | Python · Outlook/SMTP |
 | [Consulta de CNPJ](https://github.com/KaaioH013/consulta-cnpj) | Interface para consulta de informações cadastrais | React · TypeScript · Vite |
+| [Motion Ads](https://github.com/KaaioH013/motion-ads) | Geração programática de anúncios verticais com narrativa, voz, legendas e motion design | Remotion · React · TypeScript |
 
 ## Ferramentas que uso
 
