@@ -85,6 +85,7 @@ Aplicação desktop para transformar áudios em texto que pode ser revisado e ut
 | [Relatório comercial diário](https://github.com/KaaioH013/daily-commercial-report) | Indicadores em HTML e envio por e-mail | Python · Outlook/SMTP |
 | [Consulta de CNPJ](https://github.com/KaaioH013/consulta-cnpj) | Interface para consulta de informações cadastrais | React · TypeScript · Vite |
 | [Motion Ads](https://github.com/KaaioH013/motion-ads) | Geração programática de anúncios verticais com narrativa, voz, legendas e motion design | Remotion · React · TypeScript |
+| [AutoDistribuidor PCP](./portfolio/auto-distribuidor/README.md) | Distribuição inteligente de PVs com score de complexidade, regras operacionais e monitoramento de NF | Python · SQL Server · CustomTkinter |
 
 ## Ferramentas que uso
 
