@@ -39,7 +39,18 @@ Reúne dashboard, clientes e registro de atividades em uma aplicação com perfi
 
 [**Conhecer o projeto →**](https://github.com/KaaioH013/SalesOps-Industrial-Demo)
 
-### 02 · Gerador de relatórios comerciais
+### 02 · Rota Real
+**PWA para controle financeiro e operacional de motoristas.**
+
+Permite registrar turnos, plataformas, receitas e despesas e acompanhar indicadores por período. O projeto demonstra produto de ponta a ponta: definição do problema, modelagem relacional, autenticação, regras de negócio e deploy.
+
+- **Competências:** produto SaaS, banco relacional, autenticação, filtros por período e experiência mobile-first.
+- **Tecnologias:** Next.js · React · TypeScript · Tailwind CSS · Supabase · Vercel.
+- **Para explorar:** aplicação online com dados próprios; o código-fonte permanece privado enquanto a configuração de produção é revisada.
+
+[**Abrir a aplicação →](https://rotareal.csaanalytics.com.br/)
+
+### 03 · Gerador de relatórios comerciais
 **De uma planilha de vendas a relatórios PDF e HTML.**
 
 Consolida indicadores, comparações entre períodos e verificações de qualidade dos dados. O foco é apoiar a preparação de análises comerciais a partir de arquivos Excel.
@@ -54,7 +65,7 @@ Consolida indicadores, comparações entre períodos e verificações de qualida
 
 [**Conhecer o projeto →**](https://github.com/KaaioH013/sales-report-generator)
 
-### 03 · TranscritorSAJ
+### 04 · TranscritorSAJ
 **Transcrição de áudio voltada à rotina de certificação de mandados.**
 
 Aplicação desktop para transformar áudios em texto que pode ser revisado e utilizado no fluxo de trabalho do SAJ. Explora transcrição via API e processamento local com Whisper.
