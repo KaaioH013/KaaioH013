@@ -46,7 +46,7 @@ Permite registrar turnos, plataformas, receitas e despesas e acompanhar indicado
 
 - **Competências:** produto SaaS, banco relacional, autenticação, filtros por período e experiência mobile-first.
 - **Tecnologias:** Next.js · React · TypeScript · Tailwind CSS · Supabase · Vercel.
-- **Para explorar:** aplicação online com dados próprios; o código-fonte permanece privado enquanto a configuração de produção é revisada.
+- **Para explorar:** aplicação online com dados de demonstração; o código-fonte de produção permanece privado.
 
 [**Abrir a aplicação →**](https://rotareal.csaanalytics.com.br/) · [**Ver case técnico →**](./portfolio/rota-real/README.md)
 
