@@ -48,7 +48,7 @@ Permite registrar turnos, plataformas, receitas e despesas e acompanhar indicado
 - **Tecnologias:** Next.js · React · TypeScript · Tailwind CSS · Supabase · Vercel.
 - **Para explorar:** aplicação online com dados próprios; o código-fonte permanece privado enquanto a configuração de produção é revisada.
 
-[**Abrir a aplicação →**](https://rotareal.csaanalytics.com.br/)
+[**Abrir a aplicação →**](https://rotareal.csaanalytics.com.br/) · [**Ver case técnico →**](./portfolio/rota-real/README.md)
 
 ### 03 · Gerador de relatórios comerciais
 **De uma planilha de vendas a relatórios PDF e HTML.**
