@@ -33,6 +33,10 @@ Reúne dashboard, clientes e registro de atividades em uma aplicação com perfi
 - **Tecnologias:** Next.js · TypeScript · Turso/libSQL · Drizzle · Auth.js.
 - **Para explorar:** instruções de execução local, base sintética e usuários de demonstração no repositório.
 
+[![Prévia do dashboard SalesOps com dados sintéticos](https://raw.githubusercontent.com/KaaioH013/SalesOps-Industrial-Demo/main/docs/portfolio/images/dashboard-demo.png)](https://github.com/KaaioH013/SalesOps-Industrial-Demo)
+
+<sub>Prévia da demonstração pública com dados sintéticos.</sub>
+
 [**Conhecer o projeto →**](https://github.com/KaaioH013/SalesOps-Industrial-Demo)
 
 ### 02 · Gerador de relatórios comerciais
